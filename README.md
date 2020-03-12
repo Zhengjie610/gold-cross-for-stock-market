@@ -1,1 +1,3 @@
-# gold-cross-for-stock-market
+1、利用程序分析日线，1小时，15分钟等，3,5，10,20等日黄金交叉后X天的涨幅情况
+2、参数可以自己定义
+3、运行python3 income.py
